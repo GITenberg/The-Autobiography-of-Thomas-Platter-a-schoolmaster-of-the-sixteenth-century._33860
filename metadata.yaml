@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '36739'
     url: http://www.gutenberg.org/2009/agents/36739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33860#The-Autobiography-of-Thomas-Platter-a-schoolmaster-of-the-sixteenth-century.
 gutenberg_issued: '2010-10-15'
 gutenberg_type: Text
 identifiers:
